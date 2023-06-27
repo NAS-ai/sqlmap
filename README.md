@@ -1,4 +1,4 @@
-sqlmap from NAS.ai
+usqlmap from NAS.ai
 
 Screenshots
 ----
@@ -8,8 +8,7 @@ Screenshots
 
 Installation
 ----
-1-  apt update && apt upgrade -y
-2-  git clone https://github.com/NAS-ai/sqlmap.git
+git clone https://github.com/NAS-ai/sqlmap.git
 
 
 Usage
